@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-27T17:21:10+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">jeoniwon homepage</title><subtitle>I Hope You Fun Logo Editing And Pythons!
+</subtitle><author><name>yiwon</name></author><entry><title type="html">Helium Instructions</title><link href="http://localhost:4000/2025/01/27/Helium-Instructions.html" rel="alternate" type="text/html" title="Helium Instructions" /><published>2025-01-27T00:00:00+09:00</published><updated>2025-01-27T00:00:00+09:00</updated><id>http://localhost:4000/2025/01/27/Helium-Instructions</id><content type="html" xml:base="http://localhost:4000/2025/01/27/Helium-Instructions.html"><![CDATA[<h3 id="helium-instructions">Helium Instructions</h3>
+<ul>
+  <li>Video:</li>
+</ul>
+
+<p>Invert + Chorded Gradient Map + Clearer Gradient Map</p>
+
+<ul>
+  <li>Audio:</li>
+</ul>
+
+<p>IL Vocodex:
+Chorded + Videoup V1</p>]]></content><author><name>yiwon</name></author><category term="LastLogoEditingWiki" /><summary type="html"><![CDATA[I So Logo Editing Again Logo Is End, So No Longer created this!]]></summary></entry><entry><title type="html">Chorded Instructions - Logo Editing Wiki</title><link href="http://localhost:4000/2025/01/20/Chorded-Instructions.html" rel="alternate" type="text/html" title="Chorded Instructions - Logo Editing Wiki" /><published>2025-01-20T00:00:00+09:00</published><updated>2025-01-20T00:00:00+09:00</updated><id>http://localhost:4000/2025/01/20/Chorded-Instructions</id><content type="html" xml:base="http://localhost:4000/2025/01/20/Chorded-Instructions.html"><![CDATA[<h3 id="chorded-instructions">Chorded Instructions</h3>
+
+<p>Video:</p>
+
+<ul>
+  <li>B12 - Robot flip</li>
+  <li>Hue - 180 [Lost Effect]</li>
+</ul>
+
+<p>Audio:</p>
+<ul>
+  <li>Orange Vocoder 2.02 - Default</li>
+</ul>
+
+<!-- 
+> "This is a quote which should be followed"
+> Also I think this sentence is quite long.
+> more quote text to come
+>   - Chris Wayne
+
+> Single line quote
+
+However, these are bulletpoints:
+
+* To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* another point
+* that's it
+
+However, these entries should not be styled:
+
+1. an entry
+2. another entry
+3. that's another entry
+
+<video preload="auto" poster="https://pbs.twimg.com/tweet_video_thumb/D5aj3tfW0AIiSxo.jpg" src="https://video.twimg.com/tweet_video/D5aj3tfW0AIiSxo.mp4" type="video/mp4" autoplay controls></video>
+
+Jekyll also offers powerful support for code snippets:
+
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
+
+# An interesting fact on the economy of modern America
+
+Pictures look like this:
+
+![image](https://picsum.photos/200){: .modal}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/jekyll?src=hash&amp;ref_src=twsrc%5Etfw">#jekyll</a> <a href="https://twitter.com/hashtag/dash?src=hash&amp;ref_src=twsrc%5Etfw">#dash</a> now officially supports both, dark and light theming. Enjoy!<a href="https://t.co/4evp9pX2Ws">https://t.co/4evp9pX2Ws</a> <a href="https://t.co/vOQCZjGKic">pic.twitter.com/vOQCZjGKic</a></p>&mdash; 〽️ɪɢᴜᴇʟ (@bitbrain_) <a href="https://twitter.com/bitbrain_/status/1166440978124877827?ref_src=twsrc%5Etfw">August 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  -->]]></content><author><name>yiwon</name></author><category term="EffectsInstructions" /><summary type="html"><![CDATA[this article is Instruction Effects!]]></summary></entry></feed>

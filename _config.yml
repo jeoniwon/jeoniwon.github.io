@@ -20,18 +20,18 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: bitbrain-github-io
+    shortname: jeoniwon
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
-      icon: twitter-square
-      color: cyan
-    - url: https://bitbrain.itch.io
+    # - url: https://twitter.com/bitbrain_
+    #   icon: twitter-square
+    #   color: cyan
+    - url: https://jeoniwon.github.io
       icon: itch-io
       color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/jeoniwon
       icon: github-square
       color: purple
 
